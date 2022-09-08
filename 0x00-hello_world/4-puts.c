@@ -1,15 +1,14 @@
 #include <stdio.h>
 
-/** 
- * str1[]-prints Programming is like building a multilingual puzzle
+/**
+ * main - Entry point 
  *
- * Return: Always 0 success
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char str1[] = "\"Programming is like building a multilingual puzzle";
-
-	puts(str1);
-
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-}
+}	
+ 
+
