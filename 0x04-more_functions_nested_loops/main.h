@@ -53,4 +53,11 @@ void more_numbers(void);
  * @n: integer to be used
  */
 void print_line(int n);
+
+/**
+ * print_diagonal - prints a square
+ *
+ * @n: integer to see how many lines
+ */
+void print_diagonal(int n);
 #endif
