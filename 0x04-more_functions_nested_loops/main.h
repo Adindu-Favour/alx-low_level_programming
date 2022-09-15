@@ -35,4 +35,10 @@ void print_numbers(void);
  * Return: 1 or 0
  */
 int _putchar(char c);
+
+/**
+ * print_most_numbers - prints the numbers
+ *
+ */
+void print_most_numbers(void);
 #endif
