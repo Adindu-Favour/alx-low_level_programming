@@ -60,4 +60,17 @@ void print_line(int n);
  * @n: integer to see how many lines
  */
 void print_diagonal(int n);
+/**
+ * print_square - prints a square
+ *
+ * @size: prints the size of whatever
+ */
+void print_square(int size);
+
+/**
+ * print_triangle - prints triangle
+ *
+ * @size: size of triangle
+ */
+void print_triangle(int size);
 #endif
